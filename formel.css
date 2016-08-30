@@ -1,0 +1,70 @@
+#vis{
+	font-style: bold;
+	margin-left: 15px;
+}
+
+#deltext{
+	position: absolute;
+	top: 130px;
+	left: 200px;
+}
+
+#helhedtext{
+	position: absolute;
+	top: 295px;
+	left: 115px;
+}
+
+#procenttext{
+	position: absolute;
+	top: 295px;
+	left: 235px;
+}
+
+#indel, #inhelhed,#inprocent{
+	text-align: center;
+	width: 80px;
+	border: none;
+	position: absolute;
+	background-color: #eeeeee;
+	font-size: 18px;
+}
+
+#indel{
+	top: 160px;
+	left: 175px;
+}
+
+#inhelhed{
+	top: 255px;
+	left: 100px;
+}
+
+#inprocent{
+	top: 255px;
+	left: 253px;
+}
+
+#overskrift{
+	position: absolute;
+	top: 48px;
+	left: 10px;
+}
+
+#denne{
+	border: 1px solid #777;
+	padding: 5px;
+}
+
+#skabelon{
+	width: 400px;
+	height: 283px;
+	margin-left:10px;
+	background-image: url(PRT01.png);
+	background-repeat: no-repeat;
+}
+
+#btBeregn{
+	cursor: pointer;
+	margin-left: 10px;
+}
